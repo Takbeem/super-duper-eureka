@@ -1,1 +1,1 @@
-# super-duper-eureka
+# project-C25-template
